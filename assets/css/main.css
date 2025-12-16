@@ -1566,11 +1566,11 @@
 /* Basic */
 
 	body {
-		background: #fff;
+		background: #121212;
 	}
 
 	body, input, select, textarea {
-		color: #565656;
+		color: #eaeaea;
 		font-family: 'Noto Sans', sans-serif;
 		font-size: 15pt;
 		font-weight: 420;
