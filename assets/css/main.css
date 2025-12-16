@@ -1570,8 +1570,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #eaeaea;
-		background: #121212;
+		color: #121212;
 		font-family: 'Noto Sans', sans-serif;
 		font-size: 15pt;
 		font-weight: 420;
